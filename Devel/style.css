@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: cambria;
+    color: green;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.red {
+    color: rgb(150, 10, 5);
+}
+
+/* New styles */
+.blue-text {
+    color: blue;
+}
+
+.font-arial {
+    font-family: Arial, sans-serif;
+}
+
+.div-container {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 70%;
+}
